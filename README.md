@@ -1,9 +1,9 @@
 ### <div align="center"></div>  
 
 
-- 🔭 I’m currently working on [bitMountain](https://www.bitmountain.top/)  
+- 🔭 最近主要在做项目 [比特山](https://www.bitmountain.top/)  [山之泉](https://www.mountainspring.com.cn/)  
   
-- 🌱 I’m currently learning React  
+- 🌱 最近在学React、Vue3
   
 
 <br/>  
