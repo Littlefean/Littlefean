@@ -3,7 +3,7 @@
 
 - 🔭 最近主要在做项目 [比特山](https://www.bitmountain.top/)  [山之泉](https://www.mountainspring.com.cn/)  
   
-- 🌱 最近在学React、Vue3
+- 🌱 最近在学Django、React、Vue3、Nuxt
   
 
 <br/>  
