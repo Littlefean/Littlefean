@@ -1,8 +1,8 @@
 ## 最近
 
 
-- 🔭 最近主要在做项目 [比特山](https://www.bitmountain.top/) 
-- 🌱 最近在学 React、Vue3、Nuxt、cocos
+- 🔭 最近主要在做项目 CannonWarII
+- 🌱 最近在学 React、Nuxt、Rust
   
 
 
