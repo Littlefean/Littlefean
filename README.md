@@ -43,29 +43,21 @@
 
 figma、vscode、JetBrains系列（IDEA、pycharm、webstorm、datagrip）postman、HBuilderX、XShell、Lingo、cpolar
 
-个人开发的开源工具：
-
-project-graph、visual-file、cyber-life
-
 
 ## 个人链接
 up主（学习、编程、技术号）：https://space.bilibili.com/480804525
 
-个人博客：https://littlefean.github.io 
+个人博客：https://littlefean.github.io （hexo搭建）
 
-算法学习小破站（比特山）：www.bitmountain.top（无力更新，了解曾经历史详见b站比特山合集）
+算法学习小破站（比特山）：www.bitmountain.top（无力更新，了解曾经历史详见b站比特山合集，技术栈：React）
 
-个人音乐网站：https://music-practice.zeabur.app/（停更）
+个人音乐网站：https://music-practice.zeabur.app/（停更，技术栈：Nuxt）
 
-给别的企业做的官网（part time job）：[mountainspring.com.cn](https://mountainspring.com.cn/)（偶尔更新）
+给别的企业做的官网（part time job）：[mountainspring.com.cn](https://mountainspring.com.cn/)（偶尔更新，技术栈：Nuxt）
 
 微信：qeszc79513
 
 QQ: 2385190373
-
-## 其他感兴趣的领域
-
-编曲、人工智能、心理学、游戏设计、经济学
 
 
 ## Github Stats  
