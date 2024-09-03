@@ -1,8 +1,8 @@
 ## 最近
 
 
-- 🔭 最近主要在做项目 CannonWarII
-- 🌱 最近在学 React、Nuxt、Rust
+- 🔭 最近主要在做项目 CannonWarII、project-graph、visual-file
+- 🌱 最近在学 Rust、Nuxt、React
   
 
 
@@ -21,11 +21,11 @@
 
 前端框架：
 
-熟练 React、熟悉 Vue3、Nuxt
+熟练 Nuxt、React、熟悉 Vue3
 
 后端：
 
-熟练 Python3、熟悉 C/C++、用过 Java、学过 R、Go
+熟练 Python3、用过 C/C++、Java、学过 R、Go
 
 后端框架：
 
@@ -41,21 +41,31 @@
 
 工具的使用与推荐：
 
-figma、vscode、IDEA、pycharm、postman、webstorm、datagrip、HBuilderX、XShell、Lingo、cpolar、gitflow
+figma、vscode、JetBrains系列（IDEA、pycharm、webstorm、datagrip）postman、HBuilderX、XShell、Lingo、cpolar
+
+个人开发的开源工具：
+
+project-graph、visual-file、cyber-life
 
 
 ## 个人链接
 up主（学习、编程、技术号）：https://space.bilibili.com/480804525
 
-个人网站：www.littlefean.com
+个人博客：https://littlefean.github.io 
 
-算法学习小破站（比特山）：www.bitmountain.top
+算法学习小破站（比特山）：www.bitmountain.top（无力更新，了解曾经历史详见b站比特山合集）
+
+个人音乐网站：https://music-practice.zeabur.app/（停更）
+
+给别的企业做的官网（part time job）：[mountainspring.com.cn](https://mountainspring.com.cn/)（偶尔更新）
 
 微信：qeszc79513
 
 QQ: 2385190373
 
+## 其他感兴趣的领域
 
+编曲、人工智能、心理学、游戏设计、经济学
 
 
 ## Github Stats  
