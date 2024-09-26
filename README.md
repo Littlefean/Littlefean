@@ -49,9 +49,9 @@ up主（学习、编程、技术号）：https://space.bilibili.com/480804525
 
 个人博客：https://littlefean.github.io （hexo搭建）
 
-算法学习小破站（比特山）：www.bitmountain.top（无力更新，了解曾经历史详见b站比特山合集，技术栈：React）
+算法学习小破站（比特山）（无力更新，了解曾经历史详见b站比特山合集，技术栈：React）：www.bitmountain.top
 
-个人音乐网站：https://music-practice.zeabur.app/（停更，技术栈：Nuxt）
+个人音乐网站（停更，技术栈：Nuxt）：https://music-practice.zeabur.app/
 
 给别的企业做的官网（part time job）：[mountainspring.com.cn](https://mountainspring.com.cn/)（偶尔更新，技术栈：Nuxt）
 
