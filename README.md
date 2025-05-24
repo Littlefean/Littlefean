@@ -1,11 +1,3 @@
-## 最近
-
-
-- 🔭 最近主要在做项目 project-graph
-- 🌱 最近在学 Godot、Rust、Nuxt、React
-  
-
-
 ## 个人技能树
 描述说明：
 
@@ -41,7 +33,7 @@
 
 工具的使用与推荐：
 
-figma、vscode、JetBrains系列（IDEA、pycharm、webstorm、datagrip）postman、HBuilderX、XShell、Lingo、cpolar
+figma、vscode、JetBrains系列
 
 
 ## 个人链接
